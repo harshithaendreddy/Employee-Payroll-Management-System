@@ -1,0 +1,36 @@
+﻿@model Employee
+
+<h2>Edit Employee</h2>
+
+<form asp-action="EditEmployee" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <label>Name</label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span> <!-- Validation message -->
+
+    <label>Username</label>
+    <input asp-for="Username" class="form-control" />
+    <span asp-validation-for="Username" class="text-danger"></span> <!-- Validation message -->
+
+    <label>Salary</label>
+    <input asp-for="Salary" class="form-control" />
+    <span asp-validation-for="Salary" class="text-danger"></span> <!-- Validation message -->
+
+    <label>Absent Days</label>
+    <input asp-for="AbsentDays" class="form-control" />
+    <span asp-validation-for="AbsentDays" class="text-danger"></span> <!-- Validation message -->
+
+    <label>Password (Leave blank if not changing)</label>
+    <input asp-for="Password" type="password" class="form-control" />
+    <span asp-validation-for="Password" class="text-danger"></span> <!-- Validation message -->
+
+    <button type="submit" class="btn btn-success">Update</button>
+</form>
+
+<!-- Add jQuery Validation if needed -->
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

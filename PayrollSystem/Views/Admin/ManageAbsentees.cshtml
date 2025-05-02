@@ -1,0 +1,20 @@
+﻿@model List<Employee>
+<h2>Manage Absentees</h2>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Absent Days</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Name</td>
+            <td>@emp.AbsentDays</td>
+            <td>
+                <a href="@Url.Action("UpdateAbsent", "Admin", new { id = emp.Id })">Update</a>
+            </td>
+        </tr>
+    }
+</table>

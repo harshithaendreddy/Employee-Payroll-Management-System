@@ -1,0 +1,33 @@
+﻿@model List<Employee>
+
+@{
+    ViewData["Title"] = "Manage Employees";
+}
+
+<h2>Manage Employees</h2>
+
+<a href="@Url.Action("AddEmployee", "Admin")" class="btn btn-success mb-3">+ Add Employee</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Username</th>
+            <th>Salary</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Name</td>
+                <td>@emp.Username</td>
+                <td>@emp.Salary</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" href="@Url.Action("EditEmployee", "Admin", new { id = emp.Id })">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

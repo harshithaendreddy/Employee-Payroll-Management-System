@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Employee Dashboard";
+}
+
+<div style="background-image: url('/images/background.png'); background-size: cover; background-position: center; height: 100vh; padding: 20px;">
+    <h2>Employee Dashboard</h2>
+
+    <p>Welcome, @ViewBag.Username! Here you can view your payslip and manage your personal details.</p>
+
+    <!-- You can add links for Employee actions, such as viewing payslip, updating details, etc. -->
+    <div>
+        <a href="@Url.Action("ViewPayslip", "Employee")" class="btn btn-primary">View Payslip</a>
+    </div>
+</div>

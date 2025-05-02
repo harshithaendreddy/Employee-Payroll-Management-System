@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\PayrollSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\employee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\employee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\employee\\viewpayslip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\employee\\viewpayslip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\admin\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\admin\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502123748_RecreateEmployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PayrollSystem\\Migrations\\20250502123748_RecreateEmployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502123440_AddEmployeeForeignKeyToPayslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PayrollSystem\\Migrations\\20250502123440_AddEmployeeForeignKeyToPayslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\models\\payslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\models\\payslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502121417_UpdatePayslipWithEmployeeId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PayrollSystem\\Migrations\\20250502121417_UpdatePayslipWithEmployeeId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502115930_UpdatePayslipToUseEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PayrollSystem\\Migrations\\20250502115930_UpdatePayslipToUseEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\admin\\manageemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\admin\\manageemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\admin\\updateabsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\admin\\updateabsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\views\\admin\\manageabsentees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\views\\admin\\manageabsentees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\migrations\\20250502095525_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\migrations\\20250502095525_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\models\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\models\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\payrollsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\payrollsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|d:\\.net\\payrollsystem\\payrollsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B41FB0-9E03-41AD-BF51-6CBA29F3183D}|PayrollSystem\\PayrollSystem.csproj|solutionrelative:payrollsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T13:04:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PayrollSystem\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:11:24.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewPayslip.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Employee\\ViewPayslip.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Employee\\ViewPayslip.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Employee\\ViewPayslip.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Employee\\ViewPayslip.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:29:50.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PayrollSystem\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:10:59.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Employee\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Employee\\Dashboard.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Employee\\Dashboard.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Employee\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:25:48.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:25:06.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PayrollSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:10:28.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditEmployee.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\EditEmployee.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Admin\\EditEmployee.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\EditEmployee.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Admin\\EditEmployee.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:38:00.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250502121417_UpdatePayslipWithEmployeeId.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502121417_UpdatePayslipWithEmployeeId.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Migrations\\20250502121417_UpdatePayslipWithEmployeeId.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502121417_UpdatePayslipWithEmployeeId.cs",
+              "RelativeToolTip": "PayrollSystem\\Migrations\\20250502121417_UpdatePayslipWithEmployeeId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:14:17.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250502123440_AddEmployeeForeignKeyToPayslip.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502123440_AddEmployeeForeignKeyToPayslip.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Migrations\\20250502123440_AddEmployeeForeignKeyToPayslip.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502123440_AddEmployeeForeignKeyToPayslip.cs",
+              "RelativeToolTip": "PayrollSystem\\Migrations\\20250502123440_AddEmployeeForeignKeyToPayslip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:34:41.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250502123748_RecreateEmployees.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502123748_RecreateEmployees.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Migrations\\20250502123748_RecreateEmployees.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502123748_RecreateEmployees.cs",
+              "RelativeToolTip": "PayrollSystem\\Migrations\\20250502123748_RecreateEmployees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:37:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payslip.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Models\\Payslip.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Models\\Payslip.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Models\\Payslip.cs",
+              "RelativeToolTip": "PayrollSystem\\Models\\Payslip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:51:43.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PayrollSystem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:52:32.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Models\\Employee.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "PayrollSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:30:28.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PayrollSystem\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:22:32.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250502115930_UpdatePayslipToUseEmployee.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502115930_UpdatePayslipToUseEmployee.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Migrations\\20250502115930_UpdatePayslipToUseEmployee.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502115930_UpdatePayslipToUseEmployee.cs",
+              "RelativeToolTip": "PayrollSystem\\Migrations\\20250502115930_UpdatePayslipToUseEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:59:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Program.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Program.cs",
+              "RelativeToolTip": "PayrollSystem\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:54:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PayrollSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:44:17.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Admin\\AddEmployee.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\AddEmployee.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Admin\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:41:05.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:12:41.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageEmployees.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\ManageEmployees.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Admin\\ManageEmployees.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\ManageEmployees.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Admin\\ManageEmployees.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:37:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateAbsent.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\UpdateAbsent.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Admin\\UpdateAbsent.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\UpdateAbsent.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Admin\\UpdateAbsent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:39:00.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageAbsentees.cshtml",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\ManageAbsentees.cshtml",
+              "RelativeDocumentMoniker": "PayrollSystem\\Views\\Admin\\ManageAbsentees.cshtml",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Views\\Admin\\ManageAbsentees.cshtml",
+              "RelativeToolTip": "PayrollSystem\\Views\\Admin\\ManageAbsentees.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:38:26.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250502095525_InitialCreate.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502095525_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Migrations\\20250502095525_InitialCreate.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Migrations\\20250502095525_InitialCreate.cs",
+              "RelativeToolTip": "PayrollSystem\\Migrations\\20250502095525_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:55:25.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "PayrollSystem\\appsettings.json",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\appsettings.json",
+              "RelativeToolTip": "PayrollSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T09:53:35.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Absence.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Models\\Absence.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Models\\Absence.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Models\\Absence.cs",
+              "RelativeToolTip": "PayrollSystem\\Models\\Absence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:51:08.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PayrollSystem\\Models\\User.cs",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\Models\\User.cs",
+              "RelativeToolTip": "PayrollSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:50:17.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PayrollSystem",
+              "DocumentMoniker": "D:\\.NET\\PayrollSystem\\PayrollSystem\\PayrollSystem.csproj",
+              "RelativeDocumentMoniker": "PayrollSystem\\PayrollSystem.csproj",
+              "ToolTip": "D:\\.NET\\PayrollSystem\\PayrollSystem\\PayrollSystem.csproj",
+              "RelativeToolTip": "PayrollSystem\\PayrollSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T09:47:31.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
